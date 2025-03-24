@@ -1,0 +1,19 @@
+body{
+    margin: 200px;
+    padding: 10px;
+    max-height: 400px;
+    background-color: lightblue;
+    text-align: center;
+}
+header{
+    text-align: center;
+    color: black;
+}
+button{
+    font-size: 25px;
+    color: blue;
+    background-color: lightskyblue;
+    padding: 10px;
+    border-radius: 20%;
+    cursor: pointer;
+}
